@@ -8,5 +8,4 @@ while (n > 0):
     n = n // 10
     soma = soma + resto
 
-
 print("A soma dos números é: ", soma)
