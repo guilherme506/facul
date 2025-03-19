@@ -5,3 +5,7 @@ print('é um numero?', n.isalpha())
 print('está em maiúsculas?', n.islower())
 print('está em minúsculo?', n.isupper())
 print('está capitalizada?', n.capitalize())
+
+#int: numeros inteiros 
+#float:
+#string:
